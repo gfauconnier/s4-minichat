@@ -1,0 +1,48 @@
+div.box {
+  width: 90vw;
+  height: 90vh;
+  margin: 4vh auto;
+  border: 2px outset grey;
+  border-radius: 10px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+div.chatDisplay {
+  width: 95%;
+  height: 70%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid black;
+  overflow-y: auto;
+  display: flex;
+  flex-flow: column;
+}
+
+textarea {
+  width: 70%;
+  resize: none;
+  margin: auto;
+}
+
+button {
+  width: 20%;
+  margin: auto;
+}
+
+img {
+  width: 30px;
+}
+
+.waitmessage {
+  color: grey;
+}
+
+.robot {
+  color: blue;
+}
+
+.user {
+  color: red;
+  margin-left: auto;
+}
