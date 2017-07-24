@@ -1,6 +1,6 @@
 // GLOBAL VARIABLES DECLARATION
 var answers = ["Bonjour.", "La forme ?", "On va manger des chips !", "Quoi ? C'est tout ce que ça te fait quand je te dis qu'on va manger des chips ?", "Tu fais la gueule ou quoi ?"];
-var answersEnd = ["On a plus rien à se dire.", "On a plus rien à se dire.", "T'es bouché ?", "On a vraiment plus rien à se dire.", "T'as que ça à faire ?", "Tu dois vraiment avoir une vie passionante..."];
+var answersEnd = ["On a plus rien à se dire.", "T'es bouché ?", "On a vraiment plus rien à se dire.", "T'as que ça à faire ?", "Tu dois vraiment avoir une vie passionante..."];
 var waitingAnswer = 0;
 // GLOBAL VARIABLES DECLARATION
 
